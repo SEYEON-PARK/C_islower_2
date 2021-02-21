@@ -8,7 +8,7 @@ int main(void)
 	if (islower(a) == 0)
 		printf("대문자입니다.\n");
 	else
-		printf("소문자입니다.\n");
+		printf("소문자입니다.\n"); // 대문자인지 소문자인지 확인해서 알맞게 출력하기
 
 	return 0;
 }
