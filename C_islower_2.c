@@ -3,12 +3,12 @@
 
 int main(void)
 {
-	char a = 'a';
+	char a = 'a'; // ì´ˆê¸°í™”
 
 	if (islower(a) == 0)
-		printf("´ë¹®ÀÚÀÔ´Ï´Ù.\n");
+		printf("ëŒ€ë¬¸ìì…ë‹ˆë‹¤.\n");
 	else
-		printf("¼Ò¹®ÀÚÀÔ´Ï´Ù.\n");
+		printf("ì†Œë¬¸ìì…ë‹ˆë‹¤.\n");
 
 	return 0;
 }
